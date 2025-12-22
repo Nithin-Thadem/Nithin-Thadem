@@ -19,8 +19,8 @@
   <a href="mailto:nithin.thadem@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
+  <a href="https://www.youtube.com/@NitinYerola" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
   </a>
 </p>
 
@@ -107,6 +107,7 @@ const nithinThadem = {
     ],
     
     beyondTech: {
+        youtube: "🎬 Tech Content Creator @ YouTube",
         cooking: "🍛 Authentic Andhra & Telangana Cuisine",
         business: "🏪 Homemade Pickle Business Entrepreneur",
         fitness: "💪 Regular Gym Enthusiast",
@@ -1019,8 +1020,8 @@ Contributing articles, tutorials, and technical documentation
   <a href="mailto:nithin.thadem@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
-  <a href="https://calendly.com/YOUR_CALENDLY" target="_blank">
-    <img src="https://img.shields.io/badge/📅_Calendly-Schedule_Meeting-00A2FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Calendly"/>
+  <a href="https://www.youtube.com/@NitinYerola" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Subscribe-YouTube_Channel-00A2FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="YouTube Channel"/>
   </a>
 </p>
 
@@ -1040,6 +1041,85 @@ Contributing articles, tutorials, and technical documentation
 
 <div align="center">
 
+---
+
+<div align="center">
+
+## 🎬 YOUTUBE CHANNEL — Tech Content & Tutorials
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400">
+
+### 📺 Subscribe for DevOps, Cloud & Tech Content
+
+<a href="https://www.youtube.com/@NitinYerola" target="_blank">
+  <img src="https://img.shields.io/badge/▶️_SUBSCRIBE-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube Subscribe"/>
+</a>
+
+<a href="https://www.youtube.com/@NitinYerola" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000&labelColor=0D1117" alt="YouTube Subscribers"/>
+</a>
+
+### 🎥 Content Topics
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### ☁️ Cloud Architecture
+
+- Azure Tutorials
+- AWS Best Practices
+- GCP Deep Dives
+- Multi-Cloud Strategies
+
+</td>
+<td align="center" width="25%">
+
+#### ☸️ Kubernetes & DevOps
+
+- K8s Cluster Setup
+- CI/CD Pipelines
+- GitOps Workflows
+- Container Security
+
+</td>
+<td align="center" width="25%">
+
+#### 🔧 Infrastructure as Code
+
+- Terraform Guides
+- Ansible Playbooks
+- Configuration Management
+- Automation Scripts
+
+</td>
+<td align="center" width="25%">
+
+#### 📊 Monitoring & Ops
+
+- Prometheus Setup
+- Grafana Dashboards
+- Log Aggregation
+- Incident Response
+
+</td>
+</tr>
+</table>
+
+### 🎯 What You'll Learn
+
+- **Hands-on Tutorials**: Step-by-step guides for real-world scenarios
+- **Best Practices**: Industry-standard DevOps and cloud practices
+- **Career Tips**: Guidance for aspiring cloud engineers
+- **Tech Reviews**: Analysis of the latest DevOps tools and platforms
+
+<a href="https://www.youtube.com/@NitinYerola" target="_blank">
+  <img src="https://img.shields.io/badge/🔔_Don't_Miss_Out-Subscribe_Now-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Subscribe Now"/>
+</a>
+
+</div>
+
+---
 ## 🎭 BEYOND THE TERMINAL
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
