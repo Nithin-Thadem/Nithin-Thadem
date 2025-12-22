@@ -1,34 +1,34 @@
 <div align="center">
 
 <!-- EPIC ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NITHIN%20THADEM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%26%20Cloud%20Architect&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=NITHIN%20THADEM&amp;fontSize=90&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=DevOps%20Engineer%20and%20Cloud%20Architect&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <!-- MATRIX EFFECT TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Welcome+to+the+Infrastructure+Command+Center+%F0%9F%9A%80;Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+Cloud+Native;Transforming+Complex+Systems+into+Elegant+Solutions;Building+Scalable+%7C+Secure+%7C+Automated+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=00F7F4&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=140&amp;lines=Welcome+to+the+Infrastructure+Command+Center+%F0%9F%9A%80;Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+Cloud+Native;Transforming+Complex+Systems+into+Elegant+Solutions;Building+Scalable+%7C+Secure+%7C+Automated+Infrastructure" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL CONNECT BAR -->
 <p align="center">
   <a href="https://thademinfra.tech" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-thademinfra.tech-00F7F4?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-thademinfra.tech-00F7F4?style=for-the-badge&amp;logoColor=white&amp;labelColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/thadem-n-790bb520a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:nithin.thadem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117" alt="Gmail"/>
   </a>
   <a href="https://www.youtube.com/@NitinYerola" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117" alt="YouTube"/>
   </a>
 </p>
 
 <!-- VISITOR COUNTER & STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithin-Thadem&label=Profile%20Views&color=00F7F4&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Nithin-Thadem?label=Followers&style=for-the-badge&color=00F7F4&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Nithin-Thadem?label=Stars&style=for-the-badge&color=00F7F4&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Nithin-Thadem&amp;label=Profile%20Views&amp;color=00F7F4&amp;style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Nithin-Thadem?label=Followers&amp;style=for-the-badge&amp;color=00F7F4&amp;labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Nithin-Thadem?label=Stars&amp;style=for-the-badge&amp;color=00F7F4&amp;labelColor=0D1117" alt="Stars"/>
 </p>
 
 <!-- ANIMATED DIVIDER -->
@@ -192,122 +192,122 @@ console.log("🚀 Ready to build something amazing together!");
 ### 🐳 CONTAINER ORCHESTRATION & VIRTUALIZATION
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
-  <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" alt="containerd"/>
-  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&amp;logo=helm&amp;logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&amp;logo=podman&amp;logoColor=white" alt="Podman"/>
+  <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&amp;logo=containerd&amp;logoColor=white" alt="containerd"/>
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&amp;logo=rancher&amp;logoColor=white" alt="Rancher"/>
 </p>
 
 ### 🏗️ INFRASTRUCTURE AS CODE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
-  <img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
-  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ARM"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&amp;logo=pulumi&amp;logoColor=white" alt="Pulumi"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="CloudFormation"/>
+  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="ARM"/>
 </p>
 
 ### 🔄 CI/CD & GITOPS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-  <img src="https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white" alt="Flux"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
-  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" alt="Travis CI"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab CI"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&amp;logo=argo&amp;logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&amp;logo=flux&amp;logoColor=white" alt="Flux"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&amp;logo=circleci&amp;logoColor=white" alt="CircleCI"/>
+  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&amp;logo=travis-ci&amp;logoColor=white" alt="Travis CI"/>
 </p>
 
 ### 📊 MONITORING, LOGGING & OBSERVABILITY
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger"/>
-  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white" alt="New Relic"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&amp;logo=elastic&amp;logoColor=white" alt="ELK"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Loki"/>
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&amp;logo=jaeger&amp;logoColor=white" alt="Jaeger"/>
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&amp;logo=new-relic&amp;logoColor=white" alt="New Relic"/>
 </p>
 
 ### 🔐 SECURITY & IDENTITY MANAGEMENT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&amp;logo=keycloak&amp;logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&amp;logo=vault&amp;logoColor=white" alt="Vault"/>
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&amp;logo=auth0&amp;logoColor=white" alt="OAuth2"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&amp;logo=aqua&amp;logoColor=white" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&amp;logo=snyk&amp;logoColor=white" alt="Snyk"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white" alt="SonarQube"/>
 </p>
 
 ### 💻 PROGRAMMING & SCRIPTING
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell"/>
 </p>
 
 ### 🎯 FRAMEWORKS & RUNTIME
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=spring-boot&amp;logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
 </p>
 
 ### 🗄️ DATABASES & DATA STORES
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&amp;logo=apache-cassandra&amp;logoColor=white" alt="Cassandra"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="Elasticsearch"/>
 </p>
 
 ### 📨 MESSAGE BROKERS & EVENT STREAMING
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Streams"/>
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white" alt="NATS"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apache-kafka&amp;logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis Streams"/>
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&amp;logo=nats&amp;logoColor=white" alt="NATS"/>
 </p>
 
 ### 🛠️ DEVELOPMENT TOOLS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&amp;logo=vim&amp;logoColor=white" alt="Vim"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira"/>
 </p>
 
 ### 🐧 OPERATING SYSTEMS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Red Hat"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/>
-  <img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&amp;logo=red-hat&amp;logoColor=white" alt="Red Hat"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&amp;logo=centos&amp;logoColor=white" alt="CentOS"/>
+  <img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&amp;logo=alpine-linux&amp;logoColor=white" alt="Alpine"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows Server"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -439,14 +439,14 @@ tech_stack:
 
 ### 📈 Overall Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithin-Thadem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF&ring_color=00F7F4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithin-Thadem&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7F4&amp;icon_color=00F7F4&amp;text_color=FFFFFF&amp;ring_color=00F7F4"/>
 
 </td>
 <td align="center">
 
 ### 💻 Language Distribution
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Thadem&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Thadem&amp;layout=compact&amp;langs_count=10&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7F4&amp;text_color=FFFFFF"/>
 
 </td>
 </tr>
@@ -455,7 +455,7 @@ tech_stack:
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin-Thadem&theme=radical&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6B6B&currStreakLabel=00F7F4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin-Thadem&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=00F7F4&amp;ring=00F7F4&amp;fire=FF6B6B&amp;currStreakLabel=00F7F4&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF" alt="GitHub Streak" width="800"/>
 
 </td>
 </tr>
@@ -464,7 +464,7 @@ tech_stack:
 
 ### 📊 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Thadem&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F4&line=667EEA&point=FF6B6B&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Thadem&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00F7F4&amp;line=667EEA&amp;point=FF6B6B&amp;area=true&amp;custom_title=Contribution%20Activity%20Graph" width="100%"/>
 
 </td>
 </tr>
@@ -473,21 +473,21 @@ tech_stack:
 <!-- TROPHIES -->
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nithin-Thadem&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nithin-Thadem&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7&amp;title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%"/>
 
 <!-- DETAILED METRICS -->
 ### 📉 Detailed Code Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-Thadem&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-Thadem&amp;theme=radical" width="100%"/>
 
 <table>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin-Thadem&theme=radical" width="100%"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-Thadem&theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin-Thadem&amp;theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-Thadem&amp;theme=radical" width="100%"/></td>
 </tr>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-Thadem&theme=radical" width="100%"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nithin-Thadem&theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-Thadem&amp;theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nithin-Thadem&amp;theme=radical" width="100%"/></td>
 </tr>
 </table>
 
@@ -517,7 +517,7 @@ tech_stack:
 <td align="center" width="25%">
 
 ### 💰 Cost Efficiency
-<img src="https://img.shields.io/badge/Cloud_Cost_Reduction-35%25-success?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Cost_Reduction-35%25-success?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" />
 
 **$120K+ Annual Savings**
 
@@ -527,7 +527,7 @@ Optimized resource allocation, right-sizing instances, and implementing auto-sca
 <td align="center" width="25%">
 
 ### ⚡ Deployment Speed
-<img src="https://img.shields.io/badge/Deployment_Time-80%25_Faster-success?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Deployment_Time-80%25_Faster-success?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
 
 **Hours → Minutes**
 
@@ -537,7 +537,7 @@ Automated CI/CD pipelines with zero-downtime deployments
 <td align="center" width="25%">
 
 ### 🛡️ System Reliability
-<img src="https://img.shields.io/badge/Uptime_SLA-99.95%25-success?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Uptime_SLA-99.95%25-success?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" />
 
 **Industry-Leading Uptime**
 
@@ -547,7 +547,7 @@ Maintained across all production environments
 <td align="center" width="25%">
 
 ### 🤖 Automation Rate
-<img src="https://img.shields.io/badge/Manual_Tasks-90%25_Eliminated-success?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Manual_Tasks-90%25_Eliminated-success?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" />
 
 **IaC Implementation**
 
@@ -559,7 +559,7 @@ Infrastructure provisioning fully automated
 <td align="center" width="25%">
 
 ### 🔧 MTTR Improvement
-<img src="https://img.shields.io/badge/MTTR-50%25_Reduction-success?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/MTTR-50%25_Reduction-success?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" />
 
 **Rapid Issue Resolution**
 
@@ -569,7 +569,7 @@ Centralized logging and monitoring
 <td align="center" width="25%">
 
 ### 👥 Team Training
-<img src="https://img.shields.io/badge/Engineers_Trained-10%2B-success?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Engineers_Trained-10%2B-success?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" />
 
 **Knowledge Transfer**
 
@@ -579,7 +579,7 @@ DevOps practices and cloud architecture
 <td align="center" width="25%">
 
 ### 🚀 Release Frequency
-<img src="https://img.shields.io/badge/Release_Velocity-5x_Faster-success?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Release_Velocity-5x_Faster-success?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" />
 
 **Continuous Delivery**
 
@@ -589,7 +589,7 @@ From monthly to daily releases
 <td align="center" width="25%">
 
 ### 🔒 Security Posture
-<img src="https://img.shields.io/badge/Security_Score-A%2B-success?style=for-the-badge&logo=vault&logoColor=white" />
+<img src="https://img.shields.io/badge/Security_Score-A%2B-success?style=for-the-badge&amp;logo=vault&amp;logoColor=white" />
 
 **Zero Trust Implementation**
 
@@ -611,7 +611,7 @@ Zero critical vulnerabilities in production
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/🎯_CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎯_CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white&amp;labelColor=0D1117" />
 
 **Cloud Native Computing Foundation**
 
@@ -631,7 +631,7 @@ Status: 🔄 **In Progress** (Expected: Q1 2025)
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/🎯_CKAD-Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎯_CKAD-Kubernetes_Application_Developer-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white&amp;labelColor=0D1117" />
 
 **Cloud Native Computing Foundation**
 
@@ -653,7 +653,7 @@ Status: 🔄 **In Progress** (Expected: Q1 2025)
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/✅_GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/✅_GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white&amp;labelColor=0D1117" />
 
 **Google Cloud Platform**
 
@@ -673,7 +673,7 @@ Status: ✅ **Certified** (Valid)
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/✅_AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/✅_AWS-Solutions_Architect-FF9900?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white&amp;labelColor=0D1117" />
 
 **Amazon Web Services**
 
@@ -700,7 +700,7 @@ Status: ✅ **Certified** (Valid)
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🎓-Master's_Degree-00F7F4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎓-Master's_Degree-00F7F4?style=for-the-badge&amp;labelColor=0D1117" />
 
 **Automation Engineering**  
 *Control of Complex Systems*
@@ -714,7 +714,7 @@ Advanced studies in:
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🎓-Bachelor's_Degree-00F7F4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎓-Bachelor's_Degree-00F7F4?style=for-the-badge&amp;labelColor=0D1117" />
 
 **Electrical & Electronics Engineering**
 
@@ -727,7 +727,7 @@ Foundation in:
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🎓-Polytechnic-00F7F4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎓-Polytechnic-00F7F4?style=for-the-badge&amp;labelColor=0D1117" />
 
 **Electrical & Electronics Engineering**
 
@@ -755,11 +755,11 @@ Technical training in:
 <div align="center">
 
 <a href="https://github.com/Nithin-Thadem/nt-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Thadem&repo=nt-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Thadem&amp;repo=nt-portfolio&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7F4&amp;icon_color=00F7F4&amp;text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/Nithin-Thadem/Zemoso-nithin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Thadem&repo=Zemoso-nithin&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Thadem&amp;repo=Zemoso-nithin&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7F4&amp;icon_color=00F7F4&amp;text_color=FFFFFF" />
 </a>
 
 </div>
@@ -913,7 +913,7 @@ sustainability:
 
 ### 💼 Freelance Projects
 
-<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&amp;logo=freelancer&amp;logoColor=white&amp;labelColor=0D1117" />
 
 Cloud infrastructure design, DevOps pipeline implementation, and system automation projects
 
@@ -928,7 +928,7 @@ Cloud infrastructure design, DevOps pipeline implementation, and system automati
 
 ### 🏗️ Consulting Services
 
-<img src="https://img.shields.io/badge/Status-Open-success?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Open-success?style=for-the-badge&amp;logo=google-meet&amp;logoColor=white&amp;labelColor=0D1117" />
 
 Technical architecture reviews, cloud strategy development, and DevOps transformation
 
@@ -943,7 +943,7 @@ Technical architecture reviews, cloud strategy development, and DevOps transform
 
 ### 🎤 Speaking Engagements
 
-<img src="https://img.shields.io/badge/Status-Interested-success?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Interested-success?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117" />
 
 Tech conferences, webinars, workshops, and knowledge-sharing sessions
 
@@ -960,7 +960,7 @@ Tech conferences, webinars, workshops, and knowledge-sharing sessions
 
 ### 🤝 Collaborations
 
-<img src="https://img.shields.io/badge/Status-Open-success?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Open-success?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117" />
 
 Open source contributions and technical partnerships
 
@@ -975,7 +975,7 @@ Open source contributions and technical partnerships
 
 ### 👨‍🏫 Mentorship
 
-<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=0D1117" />
 
 Guiding aspiring DevOps engineers and cloud professionals
 
@@ -990,7 +990,7 @@ Guiding aspiring DevOps engineers and cloud professionals
 
 ### 💡 Technical Writing
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&amp;logo=medium&amp;logoColor=white&amp;labelColor=0D1117" />
 
 Contributing articles, tutorials, and technical documentation
 
@@ -1012,16 +1012,16 @@ Contributing articles, tutorials, and technical documentation
 
 <p>
   <a href="https://thademinfra.tech" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-thademinfra.tech-00F7F4?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-thademinfra.tech-00F7F4?style=for-the-badge&amp;logoColor=white&amp;labelColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/thadem-n-790bb520a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:nithin.thadem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117" alt="Email"/>
   </a>
   <a href="https://www.youtube.com/@NitinYerola" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Calendly"/>
+    <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&amp;logoColor=white&amp;labelColor=0D1117" alt="Calendly"/>
   </a>
 </p>
 
@@ -1052,11 +1052,11 @@ Contributing articles, tutorials, and technical documentation
 ### 📺 Subscribe for DevOps, Cloud & Tech Content
 
 <a href="https://www.youtube.com/@NitinYerola" target="_blank">
-  <img src="https://img.shields.io/badge/▶️_SUBSCRIBE-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube Subscribe"/>
+  <img src="https://img.shields.io/badge/▶️_SUBSCRIBE-YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117" alt="YouTube Subscribe"/>
 </a>
 
 <a href="https://www.youtube.com/@NitinYerola" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000&labelColor=0D1117" alt="YouTube Subscribers"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC_CHANNEL_ID?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;label=Subscribers&amp;color=FF0000&amp;labelColor=0D1117" alt="YouTube Subscribers"/>
 </a>
 
 ### 🎥 Content Topics
@@ -1114,7 +1114,7 @@ Contributing articles, tutorials, and technical documentation
 - **Tech Reviews**: Analysis of the latest DevOps tools and platforms
 
 <a href="https://www.youtube.com/@NitinYerola" target="_blank">
-  <img src="https://img.shields.io/badge/🔔_Don't_Miss_Out-Subscribe_Now-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Subscribe Now"/>
+  <img src="https://img.shields.io/badge/🔔_Don't_Miss_Out-Subscribe_Now-FF0000?style=for-the-badge&amp;logoColor=white&amp;labelColor=0D1117" alt="Subscribe Now"/>
 </a>
 
 </div>
@@ -1173,11 +1173,11 @@ Maintaining physical and mental wellness through consistent workout routines
 
 ### 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20automate%20it&author=DevOps%20Wisdom" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20automate%20it&amp;author=DevOps%20Wisdom" />
 
 ### 😄 Dev Joke of the Day
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical&amp;hideBorder" />
 
 ### ⚡ Quick Facts
 
@@ -1208,13 +1208,13 @@ If you find my work interesting or helpful, consider:
 
 <p>
   <a href="https://github.com/Nithin-Thadem?tab=followers">
-    <img src="https://img.shields.io/badge/Follow_Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+    <img src="https://img.shields.io/badge/Follow_Me-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow"/>
   </a>
   <a href="https://github.com/Nithin-Thadem?tab=repositories">
     <img src="https://img.shields.io/badge/Star_My_Repos-⭐-FFD700?style=for-the-badge" alt="Star"/>
   </a>
   <a href="https://linkedin.com/in/thadem-n-790bb520a">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect"/>
   </a>
 </p>
 
@@ -1237,15 +1237,15 @@ Thanks to the amazing open-source community and all the developers who contribut
 <div align="center">
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer&amp;text=Thanks%20for%20Visiting!&amp;fontSize=40&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=70" width="100%"/>
 
 **© 2025 Nithin Thadem**  
 *Built with ❤️ and ☕ in Pisa, Italy*
 
 <p>
-  <img src="https://img.shields.io/badge/Made_with-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Hosted_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Crafted_with-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Made_with-Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Hosted_on-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Crafted_with-VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code"/>
 </p>
 
 **Last Updated:** December 2025
