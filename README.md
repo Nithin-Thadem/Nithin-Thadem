@@ -107,7 +107,7 @@ const nithinThadem = {
     ],
     
     beyondTech: {
-        youtube: "🎬 Tech Content Creator @ YouTube",
+        youtube: "🎬 Content Creator @ YouTube",
         cooking: "🍛 Authentic Andhra & Telangana Cuisine",
         business: "🏪 Homemade Pickle Business Entrepreneur",
         fitness: "💪 Regular Gym Enthusiast",
