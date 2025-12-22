@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- EPIC ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NITHIN%20THADEM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Infrastructure%20Automator&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NITHIN%20THADEM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%26%20Cloud%20Architect&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- MATRIX EFFECT TYPING -->
 <a href="https://git.io/typing-svg">
@@ -26,9 +26,9 @@
 
 <!-- VISITOR COUNTER & STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NithinThadem-cloud&label=Profile%20Views&color=00F7F4&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/NithinThadem-cloud?label=Followers&style=for-the-badge&color=00F7F4&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/NithinThadem-cloud?label=Stars&style=for-the-badge&color=00F7F4&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Nithin-Thadem&label=Profile%20Views&color=00F7F4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Nithin-Thadem?label=Followers&style=for-the-badge&color=00F7F4&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Nithin-Thadem?label=Stars&style=for-the-badge&color=00F7F4&labelColor=0D1117" alt="Stars"/>
 </p>
 
 <!-- ANIMATED DIVIDER -->
@@ -439,14 +439,14 @@ tech_stack:
 
 ### 📈 Overall Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NithinThadem-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF&ring_color=00F7F4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithin-Thadem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF&ring_color=00F7F4"/>
 
 </td>
 <td align="center">
 
 ### 💻 Language Distribution
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinThadem-cloud&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Thadem&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF"/>
 
 </td>
 </tr>
@@ -455,7 +455,7 @@ tech_stack:
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinThadem-cloud&theme=radical&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6B6B&currStreakLabel=00F7F4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin-Thadem&theme=radical&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6B6B&currStreakLabel=00F7F4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="800"/>
 
 </td>
 </tr>
@@ -464,7 +464,7 @@ tech_stack:
 
 ### 📊 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithinThadem-cloud&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F4&line=667EEA&point=FF6B6B&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Thadem&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F4&line=667EEA&point=FF6B6B&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
 
 </td>
 </tr>
@@ -473,21 +473,21 @@ tech_stack:
 <!-- TROPHIES -->
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=NithinThadem-cloud&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nithin-Thadem&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%"/>
 
 <!-- DETAILED METRICS -->
 ### 📉 Detailed Code Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NithinThadem-cloud&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-Thadem&theme=radical" width="100%"/>
 
 <table>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NithinThadem-cloud&theme=radical" width="100%"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NithinThadem-cloud&theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin-Thadem&theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-Thadem&theme=radical" width="100%"/></td>
 </tr>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NithinThadem-cloud&theme=radical" width="100%"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NithinThadem-cloud&theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-Thadem&theme=radical" width="100%"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nithin-Thadem&theme=radical" width="100%"/></td>
 </tr>
 </table>
 
@@ -495,9 +495,9 @@ tech_stack:
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NithinThadem-cloud/NithinThadem-cloud/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NithinThadem-cloud/NithinThadem-cloud/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NithinThadem-cloud/NithinThadem-cloud/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-Thadem/Nithin-Thadem/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithin-Thadem/Nithin-Thadem/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nithin-Thadem/Nithin-Thadem/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -754,12 +754,12 @@ Technical training in:
 <!-- Featured Project Cards -->
 <div align="center">
 
-<a href="https://github.com/NithinThadem-cloud/nt-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithinThadem-cloud&repo=nt-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
+<a href="https://github.com/Nithin-Thadem/nt-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Thadem&repo=nt-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/NithinThadem-cloud/Zemoso-nithin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithinThadem-cloud&repo=Zemoso-nithin&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
+<a href="https://github.com/Nithin-Thadem/Zemoso-nithin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Thadem&repo=Zemoso-nithin&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -1021,7 +1021,7 @@ Contributing articles, tutorials, and technical documentation
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
   <a href="https://www.youtube.com/@NitinYerola" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Subscribe-YouTube_Channel-00A2FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="YouTube Channel"/>
+    <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Calendly"/>
   </a>
 </p>
 
@@ -1207,10 +1207,10 @@ const funFacts = {
 If you find my work interesting or helpful, consider:
 
 <p>
-  <a href="https://github.com/NithinThadem-cloud?tab=followers">
+  <a href="https://github.com/Nithin-Thadem?tab=followers">
     <img src="https://img.shields.io/badge/Follow_Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
   </a>
-  <a href="https://github.com/NithinThadem-cloud?tab=repositories">
+  <a href="https://github.com/Nithin-Thadem?tab=repositories">
     <img src="https://img.shields.io/badge/Star_My_Repos-⭐-FFD700?style=for-the-badge" alt="Star"/>
   </a>
   <a href="https://linkedin.com/in/thadem-n-790bb520a">
